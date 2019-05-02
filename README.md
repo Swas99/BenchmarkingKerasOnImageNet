@@ -1,6 +1,3 @@
-# Artificial Intelligence (CS7IS2) Assignment 2 Repository
-
-
 <h1>Topic: Benchmarking State-of-The-Art Image Recognition techniques for image classification</h1>>
 <p>
 	A subset of size = 3500 images was taken from the validation set of the ImageNet 2012 challenge. Pre-trained models from the Keras module in TensorFlow were used to make predictions on the input data. The top-k accuracy for k in range[1,10] were recorded and analysed for all models used in the experiment.
